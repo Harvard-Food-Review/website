@@ -1,0 +1,24 @@
+$accent: #B2EBF0;
+
+.background {
+    background-color: #EA9A9D;
+}
+
+.navbar {
+    #current {
+        color: $accent;
+    }
+}
+
+.masthead {
+    .role {
+        color: $accent;
+    }
+}
+
+footer {
+    background-color: $accent;
+    #submit {
+        color: #EA9A9D;     
+    }
+}
